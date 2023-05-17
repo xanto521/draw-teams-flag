@@ -1,8 +1,8 @@
 # draw-teams-flag
 python turtle绘制队旗
 
-<image src="cad设计图.png">
-  
-<image src="result.png">
-
+- 设计图
+![设计图](cad设计图.png)
+ 
+- 结果图
 ![结果图](result.png)
